@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently in the persuit of a new career in IT;
-- 🌱 I’m currently learning more and more about Backend and Frontend technologies;
+- 🌱 I’m currently learning more about Backend and Frontend technologies;
 - 👯 I’m looking to collaborate on new projects where I can evolve;
 - ⚡ Doing projects in Java;
 - 📫 How to reach me: on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camilojmcastro@gmail.com)](mailto:camilojmcastro@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gkoder/)](https://www.linkedin.com/in/camilojmcastro/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351917789304)
